@@ -69,7 +69,7 @@
     "format": " {}",
     "interval" : 10,
     "tooltip": true,
-    "on-click": "~/.config/hypr/scripts/waybarWofi.sh",
+    "on-click": "",
 },
 
 "clock": {

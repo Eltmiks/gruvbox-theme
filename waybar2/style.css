@@ -15,7 +15,7 @@
 
 /* the whole window */
 window#waybar {
-  background: #282828;
+  background: transparent;
   color: #fff4d2;
   padding: 0px 5px;
   margin: 0;
